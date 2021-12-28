@@ -1,0 +1,5 @@
+C:\Users\admin\Desktop\X\C#(CENGİZATİLLA)\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\SayiTahminOyunu.exe.config
+C:\Users\admin\Desktop\X\C#(CENGİZATİLLA)\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\SayiTahminOyunu.exe
+C:\Users\admin\Desktop\X\C#(CENGİZATİLLA)\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\SayiTahminOyunu.pdb
+C:\Users\admin\Desktop\X\C#(CENGİZATİLLA)\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.exe
+C:\Users\admin\Desktop\X\C#(CENGİZATİLLA)\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.pdb

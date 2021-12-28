@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\X\C#(CENGİZATİLLA)\doWhileProject\doWhileProject\bin\Debug\doWhileProject.exe.config
+C:\Users\admin\Desktop\X\C#(CENGİZATİLLA)\doWhileProject\doWhileProject\bin\Debug\doWhileProject.exe
+C:\Users\admin\Desktop\X\C#(CENGİZATİLLA)\doWhileProject\doWhileProject\bin\Debug\doWhileProject.pdb
+C:\Users\admin\Desktop\X\C#(CENGİZATİLLA)\doWhileProject\doWhileProject\obj\Debug\doWhileProject.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\X\C#(CENGİZATİLLA)\doWhileProject\doWhileProject\obj\Debug\doWhileProject.exe
+C:\Users\admin\Desktop\X\C#(CENGİZATİLLA)\doWhileProject\doWhileProject\obj\Debug\doWhileProject.pdb
